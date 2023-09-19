@@ -1,6 +1,7 @@
 #include <iostream>
 
 int main() {
-    std::cout << "Hello World";
+    double x = (1+2)*3;
+    std::cout << x;
     return 0;
 }
